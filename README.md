@@ -1,2 +1,2 @@
-# C868wgu
-Repository for wgu C868 code
+# C868wgu MySQL data dump
+Repository for wgu C868 MySQL code
